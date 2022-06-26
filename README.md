@@ -40,3 +40,19 @@ Where `<path>` can be a path to a:
 * **.slave** file
 
 If a directory path, then it will be **recursively** processed.
+
+## Credit
+
+* Info and tips from **Dom Cresswell** and his **whdload_slave.py** script from:
+
+https://github.com/HoraceAndTheSpider/Amiberry-XML-Builder/blob/master/whdload/whdload_slave.py
+
+* Info and tips from the **whdload_slave.py** script from:
+
+https://github.com/jotd666/amiga68ktools/blob/master/lib/whdload_slave.py
+
+* The Python **lhafile** module by **FrodeSolheim**:
+
+https://github.com/FrodeSolheim/python-lhafile
+
+
